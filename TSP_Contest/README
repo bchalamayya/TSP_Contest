@@ -1,0 +1,3 @@
+To run program, unzip, add files to directory, and use makefile.  Type “./prog (insert filename)” to run executable.    Upon execution, file will automatically read in from filename.txt.  The program will then select a TSP algorithm based on the size of the input, run the algorithm, and write results to “filenamechange.txt.tour”.  
+
+*Program has been tested on flip with no issues.
